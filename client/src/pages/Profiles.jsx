@@ -5,3 +5,4 @@ export default function Profiles() {
     <div>Profiles</div>
   )
 }
+
